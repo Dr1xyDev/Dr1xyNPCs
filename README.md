@@ -19,8 +19,8 @@ A powerful and easy-to-use NPC plugin that allows you to create interactive NPCs
 ### `/npc add <type> <name>`
 Creates a new NPC at your current position.
 - `<type>`: Either `human` or `floating`
-- `<name>`: The display name of the NPC (use `_` for spaces)
-- **Example**: `/npc add human Steve_the_Merchant`
+- `<name>`: The display name of the NPC
+- **Example**: `/npc add human Steve the gay nigqa{n} dinerbon`
 
 ### `/npc addcmd <command>`
 Sets a command to be executed when a player interacts with an NPC.

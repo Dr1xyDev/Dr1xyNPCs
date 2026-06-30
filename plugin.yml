@@ -1,0 +1,15 @@
+name: Dr1xyNPC
+main: Dr1xyDev\Main
+version: "1.0.1"
+api: [3.0.1]
+author: Dr1xyDev
+description: "NPC system"
+commands:
+  npc:
+    description: "Advanced NPCs system"
+    usage: "/npc add <human|floating> <name> | /npc addcmd <cmd> | /npc delcmd | /npc setmsg <msg> | /npc list | /npc delete [id]"
+    permission: dr1xynpc.admin
+permissions:
+  dr1xynpc.admin:
+    default: op
+    description: "add npc on your server"

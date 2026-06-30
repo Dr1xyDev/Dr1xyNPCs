@@ -14,6 +14,10 @@ A powerful and easy-to-use NPC plugin that allows you to create interactive NPCs
 👀 **Look-At Players** - NPCs can look at nearby players (configurable per NPC)
 🎨 **Custom Skins** - Human NPCs inherit the skin of the player who created them
 
+## Plugin Example
+
+![Dr1xyNPCs Plugin Example](example.jpg)
+
 ## Commands
 
 ### `/npc add <type> <name>`

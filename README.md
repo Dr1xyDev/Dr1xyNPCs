@@ -1,5 +1,7 @@
 # Dr1xyNPCs
 
+Aquamarine: https://github.com/Aquamarine-Team/Aquamarine
+
 Advanced Plugin NPC for Aquamarine v1.1.4
 
 A powerful and easy-to-use NPC plugin that allows you to create interactive NPCs in your PocketMine-MP server with custom commands, messages, and dynamic placeholders.
